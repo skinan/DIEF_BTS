@@ -6,7 +6,7 @@ import zipfile
 # OVERVIEW
 # -----------------------------------------------------------
 # This script demonstrates how to prepare a submission file for the "Brick by Brick 2024" competition.
-# 
+#
 # STEPS:
 # 1. Extract filenames from a ZIP file containing test data (.pkl files).
 # 2. Use the training labels file (train_y) to determine the expected output columns (the prediction targets).
